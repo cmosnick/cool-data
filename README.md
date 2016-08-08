@@ -21,5 +21,12 @@ Aggregated list of cool data I have found.  Please contribute with a pull reques
   * [City of Chicago data portal](https://data.cityofchicago.org/)
   * [Chicago crime](https://data.cityofchicago.org/Public-Safety/Crimes-Map/dfnk-7re6)
   * [List of CTA Datasets including developer APIs](https://data.cityofchicago.org/Transportation/CTA-List-of-CTA-Datasets/pnau-cf66)
+  
+
+####New York
+  * [NYC Taxi and Limousine Commission- trip times, pickup and drop-off locations, fares, tips, distances, etc.](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+   * [cool analysis](http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/#taxi-data)
+   * [cool analysis github repo](https://github.com/toddwschneider/nyc-taxi-data)
+  
 
 
