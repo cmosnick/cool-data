@@ -29,4 +29,5 @@ Aggregated list of cool data I have found.  Please contribute with a pull reques
    * [cool analysis github repo](https://github.com/toddwschneider/nyc-taxi-data)
   
 
-
+####General
+ * [NOAA hourly precipitation data](http://catalog.data.gov/dataset/u-s-hourly-precipitation-data)
