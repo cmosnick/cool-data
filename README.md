@@ -10,9 +10,11 @@ Aggregated list of cool data I have found.  Please contribute with a pull reques
 
 
 
-###Geography
--
-####Chicago
+### Geography
+
+* [ArcGIS Open Data](https://opendata.arcgis.com/)
+
+#### Chicago
   * [City of Chicago bike routes geojson](https://github.com/Chicago/osd-bike-routes)
   * [City of Chicago building footprints geojson](https://github.com/Chicago/osd-building-footprints)
   * Divvy Bikeshare 
@@ -25,16 +27,17 @@ Aggregated list of cool data I have found.  Please contribute with a pull reques
   * [List of CTA Datasets including developer APIs](https://data.cityofchicago.org/Transportation/CTA-List-of-CTA-Datasets/pnau-cf66)
 
 
-####New York
+#### New York
   * [NYC Taxi and Limousine Commission- trip times, pickup and drop-off locations, fares, tips, distances, etc.](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
    * [cool analysis / blog](http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/#taxi-data)
    * [cool analysis github repo](https://github.com/toddwschneider/nyc-taxi-data)
 
 
-####Weather
+#### Weather
  * [NOAA hourly precipitation data](http://catalog.data.gov/dataset/u-s-hourly-precipitation-data)
 
 
-####Libraries
+#### Libraries
  * [data.gov geospatial datasets](http://catalog.data.gov/dataset?metadata_type=geospatial)
  * [City of Chicago data portal](https://data.cityofchicago.org/)
+ * [ArcGIS Open Data](https://opendata.arcgis.com/)
