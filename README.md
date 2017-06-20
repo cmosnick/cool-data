@@ -4,7 +4,7 @@ Aggregated list of cool data I have found.  Please contribute with a pull reques
 
 
 
-###Sports
+### Sports
 -
 * [Summer Olympic medalists 1896 to 2008 and other data](https://docs.google.com/spreadsheets/d/1zeeZQzFoHE2j_ZrqDkVJK9eF7OH1yvg75c8S-aBcxaU/edit#gid=0)
 
@@ -18,9 +18,9 @@ Aggregated list of cool data I have found.  Please contribute with a pull reques
   * [City of Chicago bike routes geojson](https://github.com/Chicago/osd-bike-routes)
   * [City of Chicago building footprints geojson](https://github.com/Chicago/osd-building-footprints)
   * Divvy Bikeshare 
-   * [historical data by trip](https://www.divvybikes.com/data)
-   * [data by trip visualization](https://data.cityofchicago.org/Transportation/Divvy-Trips-Dashboard/u94x-unre)
-   * [stations json](https://www.divvybikes.com/stations/json)
+    * [historical data by trip](https://www.divvybikes.com/data)
+    * [data by trip visualization](https://data.cityofchicago.org/Transportation/Divvy-Trips-Dashboard/u94x-unre)
+    * [stations json](https://www.divvybikes.com/stations/json)
   * [City of Chicago github](https://github.com/Chicago)
   * [City of Chicago data portal](https://data.cityofchicago.org/)
   * [Chicago crime](https://data.cityofchicago.org/Public-Safety/Crimes-Map/dfnk-7re6)
