@@ -12,6 +12,7 @@ Aggregated list of cool data I have found.  Please contribute with a pull reques
 #### Geography
 
 * [ArcGIS Open Data](https://opendata.arcgis.com/)
+* [List of 150+ State GIS Servers](https://mappingsupport.com/p/surf_gis/list-state-GIS-servers.pdf)
 
 #### Chicago
   * [City of Chicago bike routes geojson](https://github.com/Chicago/osd-bike-routes)
