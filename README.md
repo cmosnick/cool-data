@@ -45,3 +45,4 @@ Aggregated list of cool data I have found.  Please contribute with a pull reques
  #### Other
  * [The World Bank Open Data](https://data.worldbank.org/)
  * [Environmental Footprint Explorer](https://www.environmentalfootprints.org/explorer)
+ * [70 Amazing Free Data Sources You Should Know](https://www.kdnuggets.com/2017/12/big-data-free-sources.html)
